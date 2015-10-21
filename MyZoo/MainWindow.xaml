@@ -8,7 +8,7 @@
         Loaded="Window_Loaded"
         Title="MainWindow" Height="350" Width="525">
     <StackPanel Background="Coral">
-        <ListBox Name="lbxAnimals" Margin="10" FontSize="22" MinHeight="200" Background="BlanchedAlmond" Padding="10" SelectionChanged="lbxAnimals_SelectionChanged"></ListBox>
-        <TextBlock Name="Notice" Margin="10" FontSize="26" Background="BlanchedAlmond" Padding="10"></TextBlock>
+        <ListBox Margin="10" FontSize="22" MinHeight="200" Name="lbxAnimals" SelectionChanged="lbxAnimals_SelectionChanged"></ListBox>
+        <TextBlock Margin="10" Name="Notice" FontSize="26"></TextBlock>
     </StackPanel>
 </Window>

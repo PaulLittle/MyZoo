@@ -1,1 +1,14 @@
 E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\bin\Debug\MyZoo.exe.config
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\bin\Debug\MyZoo.exe
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\bin\Debug\MyZoo.pdb
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MainWindow.g.cs
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\App.g.cs
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo_MarkupCompile.cache
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo_MarkupCompile.lref
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MainWindow.baml
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo.g.resources
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo.Properties.Resources.resources
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo.csproj.GenerateResource.Cache
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo.exe
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo.pdb
+E:\BSc_in_Software_Development\FOOPS\Practice\MyZoo\MyZoo\obj\Debug\MyZoo.csprojResolveAssemblyReference.cache
